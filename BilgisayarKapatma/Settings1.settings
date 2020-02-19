@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BilgisayarKapatma" GeneratedClassName="Settings1">
+  <Profiles />
+  <Settings>
+    <Setting Name="oto_baslama" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="sifre" Type="System.String" Scope="User">
+      <Value Profile="(Default)">e10adc3949ba59abbe56e057f20f883e</Value>
+    </Setting>
+    <Setting Name="kisayol" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;-F6-&gt;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
